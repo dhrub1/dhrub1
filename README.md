@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Dhruba Mazumder 👋
 
 **AI & Automation Developer** | Building intelligent systems that solve real business problems
 
