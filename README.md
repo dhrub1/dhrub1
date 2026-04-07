@@ -6,7 +6,7 @@
 
 ## 🔥 Featured Project
 
-### ⚖️ [LegalAssist AI](https://github.com/YOUR_USERNAME/legalassist-ai)
+### ⚖️ [LegalAssist AI](https://github.com/dhrub1/legalassist-ai)
 > AI-powered voice assistant that manages appointment scheduling for a 3-lawyer law firm
 
 **What it does:**
